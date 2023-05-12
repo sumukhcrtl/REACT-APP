@@ -1,0 +1,19 @@
+in CMD start with commands 
+>>>   npx create-react-app (app_name)
+then the server gets to connects (until you get "HAPPY HACKING")
+then go to your app folder
+>>> cd (app_name)
+>>> code .
+this takes to vs code for editing and changes in code
+in vs code go to 
+app.css
+app.js (main file)
+indedx.css
+for changes and verification 
+in vs code terminal choose new terminal
+then
+>>> npm install
+>>> npm start
+it redirects to Page with extracted data
+until the server is connected the page runs and works 👍
+ALL THE BEST ⭐💯❤️
